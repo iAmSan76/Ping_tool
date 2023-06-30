@@ -1,6 +1,6 @@
 import subprocess
 
-direccion_ip = "google.com"  # Dirección IP de Google
+direccion_ip = "facebook.com"  # Dirección IP de Google
 
 comando_ping = ["ping", "-n", "4", direccion_ip]
 
@@ -18,4 +18,4 @@ for linea in lineas:
         print("Porcentaje de pérdida de paquetes:", porcentaje_perdida)
         break
 
-print("Lady se va a casar algun dia con Santy")
+print("La inge Lady pro regaña mucho a su novio")
