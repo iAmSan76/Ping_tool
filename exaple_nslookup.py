@@ -17,3 +17,5 @@ for linea in lineas:
         porcentaje_perdida = linea.split(",")[-1].strip()
         print("Porcentaje de pérdida de paquetes:", porcentaje_perdida)
         break
+
+print("Proceso terminado...")
